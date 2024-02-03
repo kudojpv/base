@@ -1,0 +1,2 @@
+// đây không phải script của base3.
+// index của base3 là "index.html", ok.
